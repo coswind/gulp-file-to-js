@@ -1,6 +1,6 @@
 {
   "name": "gulp-file-to-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gulp plugin to convert a file into  a JavaScript represention.",
   "main": "index.coffee",
   "scripts": {
