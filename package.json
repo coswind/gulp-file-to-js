@@ -17,7 +17,7 @@
     "js"
   ],
   "author": "coswind",
-  "license": "BSD",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/coswind/gulp-file-to-js/issues"
   },
