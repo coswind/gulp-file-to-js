@@ -1,5 +1,6 @@
 gutil = require 'gulp-util'
 es = require 'event-stream'
+stringToJs = require 'string-to-js'
 
 module.exports = ->
     es.through (file)->
